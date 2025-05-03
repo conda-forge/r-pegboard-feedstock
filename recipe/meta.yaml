@@ -64,6 +64,8 @@ test:
 
 about:
   home: https://github.com/carpentries/pegboard
+  dev_url: https://github.com/carpentries/pegboard
+  doc_url: https://carpentries.github.io/pegboard/
   license: MIT
   summary: Parse Source Files in The Carpentries Workbench
   description: |
