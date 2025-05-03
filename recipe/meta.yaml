@@ -1,4 +1,4 @@
-{% set version = '0.7.6' %}
+{% set version = '0.7.7' %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/carpentries/pegboard/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 64c6445d7ee60d3b787e2d5adb38df7821d242ab1b74508291dfad44bc22b930
+  sha256: 766a402d7f79cddce20bd9846504d32ade2b9051b3c1512b5d50d2ace86ae981
 
 build:
   number: 0
