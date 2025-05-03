@@ -9,6 +9,10 @@ Package license: MIT
 
 Summary: Parse Source Files in The Carpentries Workbench
 
+Development: https://github.com/carpentries/pegboard
+
+Documentation: https://carpentries.github.io/pegboard/
+
 The Carpentries (<https://carpentries.org>) curricula is made of of lessons that are
 hosted as websites. Each lesson represents between a half day to two days of instruction
 and contains several episodes, which are written as 'kramdown'-flavored 'markdown'
